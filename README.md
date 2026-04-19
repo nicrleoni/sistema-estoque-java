@@ -7,7 +7,9 @@ Funcionalidades
 
 O sistema oferece um menu dinâmico que permite ao usuário interagir com o inventário em tempo real:
 Adicionar Produto: Cadastro de itens com nome, preço e quantidade.
+
 Listar Estoque: Exibição detalhada de todos os itens armazenados, incluindo eletrônicos com lógica própria.
+
 Remover Produto: Exclusão de itens do inventário utilizando índices dinâmicos
 .
 
@@ -24,7 +26,9 @@ Ferramentas: Java Virtual Machine (JVM) para portabilidade e execução
 .
 
 Conceitos de Programação Aplicados
+
 Para construir este sistema, apliquei conceitos fundamentais que demonstram uma base sólida em engenharia de software:
+
 Encapsulamento: Utilizei modificadores de acesso private nos atributos das classes, protegendo os dados e permitindo o acesso apenas através de métodos Getters e Setters
 .
 
